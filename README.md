@@ -1,4 +1,4 @@
-### Hey 👋! I'm Hiten Mittal, welcome to my profile!
+# Hey 👋! I'm Hiten Mittal, welcome to my profile!
 
 - 🔭 I’m currently working on web dev projects and security stuff.
 - 🌱 I’m currently learning Djongo, pentesting, etc.
