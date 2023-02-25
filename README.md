@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋! I'm Hiten Mittal, welcome to my profile!
+
+- 🔭 I’m currently working on web dev projects and security stuff.
+- 🌱 I’m currently learning Djongo, pentesting, etc.
+- 👯 I’m looking to collaborate on open-source 
+- 💬 Ask me about anything, happy to discuss and learn together!
+- 📫 How to reach me: hitenmittal2@gmail.com
 
 <!--
 **HitenM/HitenM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
