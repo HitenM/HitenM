@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiten Mittal, welcome to my profile!</h1>
 <h3 align="center">Veni. Vidi. Vici.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitenm&label=Profile%20views&color=0e75b6&style=flat" alt="hitenm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hitenm&label=Profile%20views&color=0e75b6&style=flat" alt="hitenm" /> </p>
 
 - 🔭 I’m currently working on **web dev projects and security stuff.**
 
