@@ -22,4 +22,4 @@
 
 <p align="center"><a href="https://linkedin.com/in/https://www.linkedin.com/in/hiten-mittal-7178b0151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiten-mittal-7178b0151/" height="30" width="40" /></a></p>
 
-<p align="center"><div style="margin: 5px 0px; text-align: center;"><span style="color: #999999;"><em><strong>I'll be here. I'll be waiting for you. If you come here, you'll find me. I promise.</strong></em></span></div></p>
+<p align="center"><span style="color: #999999;"><em><strong>I'll be here. I'll be waiting for you. If you come here, you'll find me. I promise.</strong></em></span></p>
