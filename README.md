@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitenm&label=Profile%20views&color=0e75b6&style=flat" alt="hitenm" /> </p>
 
+- 🔭 I’m currently working on **web dev projects and security stuff.**
+
+- 🌱 I’m currently learning **Djongo, pentesting, etc.**
+
+- 👯 I’m looking to collaborate **on open-source projects.**
+
+- 💬 Ask me about **anything, happy to discuss and learn together!**
+
+- 📫 How to reach me **hitenmittal2@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hiten-mittal-7178b0151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiten-mittal-7178b0151/" height="30" width="40" /></a>
