@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hitenm&label=Profile%20views&color=0e75b6&style=flat" alt="hitenm" /> </p>
 
-- 🔭 I’m currently working on **web dev projects and security stuff.**
-
-- 🌱 I’m currently learning **Djongo, pentesting, etc.**
+- 🔭 I have worked on **web dev projects and security stuff.**
 
 - 👯 I’m looking to collaborate **on open-source projects.**
 
